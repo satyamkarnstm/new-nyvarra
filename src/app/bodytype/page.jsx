@@ -10,7 +10,7 @@ function bodyType() {
         <p> bodyType</p>
       </div>
       <Footer />
-      bodyType
+    
     </div>
   );
 }
